@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fiewin/static/css/main.865f822e.css",
+    "main.js": "/fiewin/static/js/main.3b60488f.js",
+    "index.html": "/fiewin/index.html",
+    "main.865f822e.css.map": "/fiewin/static/css/main.865f822e.css.map",
+    "main.3b60488f.js.map": "/fiewin/static/js/main.3b60488f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865f822e.css",
+    "static/js/main.3b60488f.js"
+  ]
+}
